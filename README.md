@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Two Legs" src="http://atulmy.com/attachments/images/two-legs.png" width="100" />
+  <img alt="Two Legs" src="http://atulmy.com/attachments/images/two-legs.png" width="150" />
 </p>
 
 <h1 align="center">Two Legs</h1>
